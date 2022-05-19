@@ -9,7 +9,7 @@ This bundle includes the following packages to simulate a reaction-diffusion mod
 
 >**ThylakoidStacks** contains algorithms that compute the effective diffusion constant through thyklakoid stacks with realistic geometries.
 
-For a more detailed discription of the model, see our paper [here](xxx).
+For a more detailed discription of the model, see our paper [here](https://www.nature.com/articles/s41477-022-01153-7).
 
 ### Installation
 
